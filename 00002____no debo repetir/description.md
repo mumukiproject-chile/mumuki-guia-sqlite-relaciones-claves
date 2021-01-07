@@ -53,7 +53,10 @@ Veamos cómo quedaría la consulta para conocer los temas con género "folklore"
   }'>
 </div>
 
-\`\`\` sql SELECT id\_cancion, nombre, album, canciones.artista, genero, anio FROM canciones, artistas WHERE canciones.artista = artistas.nombre AND genero LIKE "folklore";
-
-\`\`\`
+``` sql 
+SELECT id_cancion, nombre, album, canciones.artista, genero, anio 
+FROM canciones, artistas 
+WHERE canciones.artista = artistas.nombre 
+AND genero LIKE "folklore";
+```
 

@@ -6,5 +6,9 @@ Por esto, cuando se consultan datos de más de una tabla, se habla de **hacer un
 
 La consulta equivalente sería así:
 
-\`\`\` sql SELECT id\_cancion, nombre, album, canciones.artista, genero, anio FROM canciones, artistas WHERE canciones.artista = artistas.nombre AND genero LIKE "folklore";
-
+``` sql 
+SELECT id_cancion, nombre, album, canciones.artista, genero, anio 
+FROM canciones, artistas 
+WHERE canciones.artista = artistas.nombre
+AND genero LIKE "folklore";
+```

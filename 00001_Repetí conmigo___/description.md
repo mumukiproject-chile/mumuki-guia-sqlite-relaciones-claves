@@ -29,6 +29,10 @@ Tenemos dos tablas:
 
 Como verás, algunos campos de la tabla de canciones se repiten en la de los artistas. ¿Qué sucedería si cambiáramos, por ejemplo, el **género** de una de las bandas?
 
-``` sql UPDATE artistas SET genero = "folklore" WHERE nombre_artista LIKE "los borbotones"; ```
+``` sql 
+UPDATE artistas 
+SET genero = "folklore" 
+WHERE nombre_artista LIKE "los borbotones"; 
+```
 
 ¡Comprueba cómo quedaría! 
