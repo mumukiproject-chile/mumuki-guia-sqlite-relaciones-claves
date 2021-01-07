@@ -1,8 +1,8 @@
 Esto se está poniendo interesante… :smirk:
 
-Ahora probalo vos.
+Ahora pruébalo tú.
 
-> Consultá todas las películas en las que actúa Sam Claflin. 
+> Consulta todas las películas en las que actúa Sam Claflin. 
 
 <div
   class='mu-erd'

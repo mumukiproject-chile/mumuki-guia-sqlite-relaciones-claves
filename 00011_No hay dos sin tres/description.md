@@ -1,6 +1,6 @@
-¡Espectacular! Ya estamos listos para ponerle el pecho a lo que se venga.
+¡Espectacular! Ya estamos listos para apechugar con lo que se venga.
 
-> Consultá los actores y actrices que participen en películas con puntaje mayor a 9. Procurá que no se repitan los resultados.
+> Consulta los actores y actrices que participen en películas con puntaje mayor a 9. Trata de que no se repitan los resultados.
 
 <div
   class='mu-sql-table'

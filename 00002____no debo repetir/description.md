@@ -1,4 +1,4 @@
-Para no tener el género (o cualquier otro campo) repetido y esparcido por varias tablas, podríamos dejar en la entidad _canciones_ solo el artista, y omitir el género y todo lo referente a la _banda_. 
+Para no tener el género (o cualquier otro campo) repetido y esparcido por varias tablas, podríamos dejar en la entidad _canciones_ solo el artista y omitir el género y todo lo referente a la _banda_. 
 
 Pero es importante entender que el nombre de la banda debe seguir correspondiéndose (siendo exactamente igual) para mantener la relación entre las dos entidades. 
 
@@ -53,11 +53,7 @@ Veamos cómo quedaría la consulta para conocer los temas con género "folklore"
   }'>
 </div>
 
-``` sql
-SELECT id_cancion, nombre, album, canciones.artista, genero, anio 
-FROM canciones, artistas
-WHERE canciones.artista = artistas.nombre
-AND genero LIKE "folklore";
+\`\`\` sql SELECT id\_cancion, nombre, album, canciones.artista, genero, anio FROM canciones, artistas WHERE canciones.artista = artistas.nombre AND genero LIKE "folklore";
 
-```
+\`\`\`
 

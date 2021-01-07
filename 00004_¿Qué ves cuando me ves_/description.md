@@ -1,4 +1,4 @@
-> Consultá todos los títulos de las canciones cuyo artista sea The Beatles. 
+> Consulta todos los títulos de las canciones cuyo artista sea The Beatles. 
 
 <div
   class='mu-sql-table'

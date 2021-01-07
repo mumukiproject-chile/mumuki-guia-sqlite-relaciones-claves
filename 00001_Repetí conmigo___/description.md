@@ -3,7 +3,7 @@ Dejemos de lado por un rato las series y películas. Pensemos en las aplicacione
 Tenemos dos tablas: 
 
 * una que guarda toda la lista de canciones, con el detalle de cada una,
-* y otra que contiene a los autores también con información relevante de ellos:
+* y otra que también contiene los autores con información relevante de ellos:
 
 <div
   class='mu-sql-table'
@@ -29,10 +29,6 @@ Tenemos dos tablas:
 
 Como verás, algunos campos de la tabla de canciones se repiten en la de los artistas. ¿Qué sucedería si cambiáramos, por ejemplo, el **género** de una de las bandas?
 
-``` sql
-UPDATE artistas
-SET genero = "folklore"
-WHERE nombre_artista LIKE "los borbotones";
-```
+``` sql UPDATE artistas SET genero = "folklore" WHERE nombre_artista LIKE "los borbotones"; ```
 
-¡Comprobá cómo quedaría! 
+¡Comprueba cómo quedaría! 

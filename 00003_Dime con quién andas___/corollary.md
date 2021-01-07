@@ -1,6 +1,6 @@
-¡Espectacular!... Espectacular… espectacular… ¡Espectaculaaar-a-a-a-a!
+¡Espectacular...! Espectacular… espectacular… ¡Espectaculaaar-a-a-a-a!
 
-Ya no importa cómo lo escribamos, porque a todos ellos los vamos a identificar de la misma forma usando solo la PK (el ID numérico) de la que tanto hablamos (o quizás no tanto, pero ahora nos va a importar un poquito más :stuck_out_tongue_winking_eye:).
+Ya no importa cómo lo escribamos, porque a todos ellos los vamos a identificar de la misma forma usando solo la PK (el ID numérico) de la que tanto hablamos (o quizás no tanto, pero ahora nos va a importar un poquito más :stuck\_out\_tongue\_winking\_eye:).
 
 
 <div
@@ -50,6 +50,6 @@ Ya no importa cómo lo escribamos, porque a todos ellos los vamos a identificar 
   }'>
 </div>
 
-Fijate que la **PK** de una tabla (:key: id_artista en “artistas”) no es la clave primaria de la otra (:key: id_canción en “canciones”). 
+Fíjate que la **PK** de una tabla (:key: id\_artista en “artistas”) no es la clave primaria de la otra (:key: id\_canción en “canciones”). 
 
-Pero, como es un campo que le ponemos a la canción para referenciar a determinado registro de la tabla artista, se lo llama clave foránea, foreign key en inglés, o directamente **FK** (y lo representamos en el DER con la llave plateada).
+Pero, como es un campo que asignamos a la canción para referenciar determinado registro de la tabla artista, se lo llama clave foránea, foreign key en inglés, o directamente **FK** (y lo representamos en el DER con la llave plateada).

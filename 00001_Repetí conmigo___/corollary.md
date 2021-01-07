@@ -9,6 +9,6 @@
   ]'>
 </div>
 
-¡Ups! El famoso hit “Baby on board” de Los Borbotones quedó con un género totalmente inconsistente. 
+¡Ups! El famoso hit “Baby on board” de Los Borbotones quedó con un género totalmente incongruente. 
 
-Si hiciéramos una consulta que devuelva las canciones con género “folklore”, no devolvería nada. Sigamos avanzando para ver cómo solucionarlo. :wink:
+Si hiciéramos una consulta que arrojara las canciones con género “folklore”, no devolvería nada. Sigamos avanzando para ver cómo solucionarlo. :wink:

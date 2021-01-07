@@ -1,6 +1,6 @@
-Todo muy lindo, pero… ¿qué pasaría si hubieran dos artistas con el mismo nombre? :fearful:
+Todo bien hasta aquí, pero… ¿qué pasaría si hubiera dos artistas con el mismo nombre? :fearful:
 
-O, peor aún, ¿si hubieran dos registros sobre el mismo artista escrito de distintas maneras? Por ejemplo: “The Beatles” y “the beatles”. Ya sabemos que los strings no son muy confiables… 
+O, peor aún, ¿si hubiera dos registros sobre el mismo artista escritos de distintas maneras? Por ejemplo: “The Beatles” y “the beatles”. Ya sabemos que los strings no son muy confiables… 
 
 Entonces, recapitulemos… ¿cuál es el único campo que identifica unívocamente a cada registro y que no da lugar a confusión?
 
