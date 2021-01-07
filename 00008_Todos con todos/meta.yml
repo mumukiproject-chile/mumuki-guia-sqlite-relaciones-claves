@@ -1,0 +1,10 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: hidden
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices: []
+name: Todos con todos

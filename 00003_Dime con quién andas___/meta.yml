@@ -1,0 +1,23 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Nombre del artista
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: ID del artista
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Integrantes de la banda
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Nacionalidad
+  checked: false
+name: Dime con quién andas...

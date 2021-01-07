@@ -1,0 +1,1 @@
+CREATE TABLE canciones (id_cancion INTEGER PRIMARY KEY);
