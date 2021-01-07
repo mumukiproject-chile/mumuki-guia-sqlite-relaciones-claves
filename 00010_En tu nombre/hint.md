@@ -3,7 +3,7 @@ Recuerda que nos interesan solo los títulos, pero tenemos como dato el nombre d
 Te dejamos como ayudita la consulta del ejercicio anterior: :wink: 
 
 > ``` sql 
-> SELECT DISTINCT título 
+> SELECT DISTINCT titulo 
 > FROM series_peliculas s, personaje_por_contenido pc, personajes p 
 > WHERE s.id_serie = pc.id_serie 
 > AND pc.id_personaje = p.id_personaje 
